@@ -1,1 +1,1 @@
-# Quarter4_FA3
+This is a graded activity on loops and Arrays.
